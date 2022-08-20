@@ -5,3 +5,6 @@ Use this application to keep track of all the items you need to remember and/or 
 
 GitHub link:
 https://github.com/JessicaM04/note-taker
+
+App deployed to Heroku:
+https://note-taker-jm2022.herokuapp.com/
